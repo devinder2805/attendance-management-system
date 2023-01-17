@@ -22,4 +22,7 @@ where student's can view their subject wise attendance as well as last 5 subject
 And teacher can take attendance of student by filtering the student by their batch year, section and branch.
 They will be able to mark attendance of any subject
 
+# run project
+add the code in attendance folder in htdocs folder of XAMPP
+
 
